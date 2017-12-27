@@ -1,0 +1,4 @@
+#Thu Dec 28 04:19:31 SGT 2017
+base.0=C\:\\Data\\Programming\\Android Basic\\diceApp\\RecipeAssistant\\Application\\build\\intermediates\\transforms\\dexMerger\\debug\\4
+path.0=classes.dex
+renamed.0=classes.dex
